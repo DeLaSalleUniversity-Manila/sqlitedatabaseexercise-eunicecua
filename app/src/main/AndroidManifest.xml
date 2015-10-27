@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.edmund.zenteaapp" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".TopLevelActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".GreenTea"
+            android:label="@string/title_activity_green_tea"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".Strawberry"
+            android:label="@string/title_activity_strawberry"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".GreenApple"
+            android:label="@string/title_activity_green_apple"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".Raspberry"
+            android:label="@string/title_activity_raspberry"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".Lychee"
+            android:label="@string/title_activity_lychee"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".Blueberry"
+            android:label="@string/title_activity_blueberry"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".Personalitea"
+            android:label="@string/title_activity_personalitea"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".RedZen"
+            android:label="@string/title_activity_red_zen"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".ThreeBerries"
+            android:label="@string/title_activity_three_berries"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".Tropical"
+            android:label="@string/title_activity_tropical"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".MilkTea"
+            android:label="@string/title_activity_milk_tea"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".Naicha"
+            android:label="@string/title_activity_naicha"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".Choctea"
+            android:label="@string/title_activity_choctea"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".Altitude"
+            android:label="@string/title_activity_altitude"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".Extras"
+            android:label="@string/title_activity_extras"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".Pearl"
+            android:label="@string/title_activity_pearl"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".Pudding"
+            android:label="@string/title_activity_pudding"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".Nata"
+            android:label="@string/title_activity_nata"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+    </application>
+
+</manifest>

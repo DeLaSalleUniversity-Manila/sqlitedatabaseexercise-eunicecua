@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ZenTeaApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="header_text">Zen Tea</string>
+    <string name="title_activity_green_tea">GreenTea</string>
+    <string name="title_activity_strawberry">Strawberry</string>
+    <string name="title_activity_green_apple">GreenApple</string>
+    <string name="title_activity_raspberry">Raspberry</string>
+    <string name="title_activity_lychee">Lychee</string>
+    <string name="title_activity_blueberry">Blueberry</string>
+    <string name="title_activity_personalitea">Personalitea</string>
+    <string name="title_activity_red_zen">RedZen</string>
+    <string name="title_activity_three_berries">ThreeBerries</string>
+    <string name="title_activity_tropical">Tropical</string>
+    <string name="title_activity_milk_tea">MilkTea</string>
+    <string name="title_activity_naicha">Naicha</string>
+    <string name="title_activity_choctea">Choctea</string>
+    <string name="title_activity_altitude">Altitude</string>
+    <string name="title_activity_extras">Extras</string>
+    <string name="title_activity_pearl">Pearl</string>
+    <string name="title_activity_pudding">Pudding</string>
+    <string name="title_activity_nata">Nata</string>
+</resources>
